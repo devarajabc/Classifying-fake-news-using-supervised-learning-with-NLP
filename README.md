@@ -1,3 +1,3 @@
 # Classifying-fake-news-using-supervised-learning-with-NLP
-from DataCamp 
+I prectice this project from DataCamp 
 
